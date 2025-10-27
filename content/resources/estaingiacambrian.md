@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of a Estaingia fossils.
 file: /courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/8870c19bde7fe5e817e45de5daaed923_EstaingiaCambrian.jpg
+file_size: 56015
 file_type: image/jpeg
 image_metadata:
   caption: ''
